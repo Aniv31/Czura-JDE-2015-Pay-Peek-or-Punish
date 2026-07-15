@@ -44,4 +44,4 @@ The paper doesn't discuss the mechanism by which this occurs, though they sugges
 
 # Replication
 
-Results matched exactly except for Table 1, which checks if characteristics were the same for different people participating in different games. Average membership (in months) didn't come close to any of the figures given in the paper.
+Results matched exactly except for Table 1, which checks if characteristics were the same for different people participating in different games. Average membership (in months) didn't come close to any of the figures given in the paper.Tables 3 and 4 .data about risk aversion for participants was confidential.
